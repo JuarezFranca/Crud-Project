@@ -19,7 +19,7 @@
 /*Layout em grid */
 
 .app {
-    margin: 0;
+    margin: 0px;
     display: grid;
     grid-template-columns: var(--aside-width) 1fr;
     grid-template-rows: 
@@ -35,6 +35,9 @@
 }
 
 aside.logo {
+    grid-area: logo;
+}
+header.header {
     grid-area: header;
 }
 aside.menu-area {
