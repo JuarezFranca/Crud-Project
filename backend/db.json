@@ -1,13 +1,3 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "Clara Souto Dos Santos",
-        "email": "clara_sds@hotmail.com"
-
-    }, {
-        "id": 2,
-        "name": "Juarez Alves França",
-        "email": "kjootaa@gmail.com"
-        
-    }]
+  "users": []
 }
